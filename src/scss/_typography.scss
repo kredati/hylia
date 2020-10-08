@@ -8,6 +8,24 @@
     url('/fonts/lora-v13-latin-700.woff') format('woff');
 }
 
+@font-face {
+  font-family: 'Playfair-bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: local('Playfair Display Bold'),
+    url('/fonts/PlayfairDisplay-Bold.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Playfair-text';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Playfair Display Regular'),
+    url('/fonts/PlayfairDisplay-Regular.ttf') format('ttf');
+}
+
 body {
   // Strip the unit off the size ratio to generate a line height
   $line-height: get-size(600);
