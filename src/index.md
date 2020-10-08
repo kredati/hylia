@@ -6,4 +6,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
-Researching, teaching, and writing about digital media, queer theory, and critical coding in Toronto since 2016.
+_Researching, teaching, and writing about digital media, queer theory, and critical coding in Toronto since 2016._
